@@ -1,0 +1,36 @@
+.output{
+    background-color: darkgreen;
+}
+
+body{
+    background-color: darkorange;
+}
+main{
+    padding-left: 1em;
+}
+
+
+
+label{
+    color: darkgreen;
+    font-weight: bold;
+
+}
+
+input, select{
+    margin-left: 1em;
+    margin-top: 0.5em;
+}
+
+
+header,h2 {
+    color: aqua;
+
+}
+
+footer,h2 {
+    color: aqua;
+
+}
+
+
